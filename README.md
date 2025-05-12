@@ -51,8 +51,11 @@ La API estará disponible en: `http://localhost:8000/api/tasks`
 
 ## Sistema desplegado
 
-Frontend:  
-Backend (API):
+Backend (API)
+https://www.fytophylos.com/api/tasks
+
+Frontend
+https://www.fytophylos.com/www/
 
 ##  Credenciales de prueba
 
